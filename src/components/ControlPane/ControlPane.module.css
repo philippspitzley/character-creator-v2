@@ -11,11 +11,12 @@
   */
   margin-bottom: 32px;
 }
-
 .title {
   margin: 0;
   /* Optical centering */
   margin-bottom: -4px;
+  position: sticky;
+  left: 0;
 }
 
 .metadata {
